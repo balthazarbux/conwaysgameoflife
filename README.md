@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-This game literally has trillions of python implementations and they're probably
+[This game](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) literally has trillions of python implementations and they're probably
 better than mine, but fuck it, I'm bored.
 
 ## Gameplay
